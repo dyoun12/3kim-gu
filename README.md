@@ -1,22 +1,40 @@
 # 3kim-gu :rice_ball: 
 > ###### 3kim-gu는 김씨 세명과 구씨 한명으로 이루어져서 만들어진 팀명입니다!<br/>
-기본적인 Git 사용법과 협업과정을 연습할 수 있도록 Git bash 사용을 하였습니다. 
+기본적인 Git 사용법과 협업과정을 연습할 수 있도록 Git bash를 사용 하였습니다. 
 롤링페이퍼 형태로 팀원분들 각각 첫인상과 현인상을 적어보았습니다!
 
 #팀 소개
 <table>
   <tbody>
     <tr>
-      <td align="center"><a href="https://github.com/dyoun12"><img src="https://avatars.githubusercontent.com/u/107902336?v=4" width="100px;" alt=""/><br /><sub><b> 김대연 </b></sub></a><br /></td>
-    </tr>
-<tr>
-      <td align="center"><a href="https://github.com/user0830"><img src="https://avatars.githubusercontent.com/u/82265395?v=4" width="100px;" alt=""/><br /><sub><b> 구민지 </b></sub></a><br /></td>
-    </tr>
-<tr>
-      <td align="center"><a href="https://github.com/leeyoung-sungshin"><img src="https://avatars.githubusercontent.com/u/90319120?v=4" width="100px;" alt=""/><br /><sub><b> 김리영 </b></sub></a><br /></td>
-    </tr>
-<tr>
-      <td align="center"><a href="https://github.com/minsung159357"><img src="https://avatars.githubusercontent.com/u/87555330?v=4" width="100px;" alt=""/><br /><sub><b> 김민성 </b></sub></a><br /></td>
+      <td align="center">
+         <a href="https://github.com/user0830">
+          <img src="https://avatars.githubusercontent.com/u/82265395?v=4" width="100px;" alt=""/>
+          <br /><sub><b> 구민지 </b></sub>
+        </a>
+        <br />
+      </td>
+      <td align="center">
+          <a href="https://github.com/dyoun12">
+          <img src="https://avatars.githubusercontent.com/u/107902336?v=4" width="100px;" alt=""/>
+          <br /><sub><b> 김대연 </b></sub>
+        </a>
+        <br />
+      </td>
+      <td align="center">
+        <a href="https://github.com/leeyoung-sungshin">
+          <img src="https://avatars.githubusercontent.com/u/90319120?v=4" width="100px;" alt=""/>
+          <br /><sub><b> 김리영 </b></sub>
+        </a>
+        <br />
+      </td>
+      <td align="center">
+        <a href="https://github.com/minsung159357">
+          <img src="https://avatars.githubusercontent.com/u/87555330?v=4" width="100px;" alt=""/>
+          <br /><sub><b> 김민성 </b></sub>
+        </a>
+        <br />
+      </td>
     </tr>
   </tbody>
 </table>
@@ -66,7 +84,7 @@
 - 무뚝뚝해보이시만 마음 여리실 것 같은 스타일
 - 말을 걸면 대답 잘해주신다
 
-#마무리
+# 마무리
 다같이 하나의 레포지토리에 commit하면서 팀원간 소통과 협업을 
 warm up 할 수 있는 뜻깊은 시간이었습니다!!
 
