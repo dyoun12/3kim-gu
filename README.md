@@ -22,8 +22,8 @@
         <br />
       </td>
       <td align="center">
-        <a href="https://github.com/leeyoung-sungshin">
-          <img src="https://avatars.githubusercontent.com/u/90319120?v=4" width="100px;" alt=""/>
+        <a href="https://github.com/riyeong0916">
+          <img src="https://avatars.githubusercontent.com/u/193798531?v=4" width="100px;" alt=""/>
           <br /><sub><b> 김리영 </b></sub>
         </a>
         <br />
@@ -90,7 +90,7 @@
 - 다같이 하나의 레포지토리에 commit하면서 팀원간 소통과 협업을 
 warm up 할 수 있는 뜻깊은 시간이었습니다!! 
 - github를 처음 써봤는데 오류가 많이 발생해서 팀원들과 차근차근 
-배워가야겠다는 생각이 들었다 ㅎ 파이팅!
-- gitbash 명령어와 리포지토리 생성, 스테이징, 커밋 등 다양한 개념에 대해 학습할 수 있는 시간이었습니닿
+배워가야겠다는 생각이 들었다! 파이팅!
+- gitbash 명령어와 리포지토리 생성, 스테이징, 커밋 등 다양한 개념에 대해 학습할 수 있는 시간이었습니다.
 - git bash 가 어떤 것인지 간단하게 알 수 있는 시간이었습니다.
 
